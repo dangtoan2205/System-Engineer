@@ -42,3 +42,16 @@ docker --version
 docker compose version
 sudo systemctl status docker
 ```
+
+Xóa sạch toàn bộ docker
+
+```
+sudo docker system prune -a --volume -f
+```
+
+- Lệnh này sẽ xóa:
+  - Tất cả stopped containers
+  - Tất cả unused images
+  - Tất cả unused networks
+  - Tất cả unused volumes
+ 
