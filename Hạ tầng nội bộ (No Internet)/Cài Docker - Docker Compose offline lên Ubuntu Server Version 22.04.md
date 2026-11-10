@@ -1,4 +1,5 @@
 CÀI DOCKER VÀ DOCKER COMPOSE OFFLINE TRÊN UBUNTU SERVER 22.04
+----
 
 ## 1. Tải file bằng trình duyệt
 Mở đường dẫn này trên máy tải được Internet:
